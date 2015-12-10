@@ -9,7 +9,7 @@ LD 34 DISCORD GROUP PARTICIPANTS
 - YoohooYuzu (Art)
 - VideahGams (Idea discussion)
  
-Ludum Dare 34 starts at __Satuday 11:00(AM, KST[GMT +9])__
+Ludum Dare 34 starts at [__Satuday 11:00(AM, KST[GMT +9])__](http://www.wolframalpha.com/input/?i=Saturday+11%3A00+AM+KST+to+local+time+zone) (Click the time for time converting)
  
 Make sure to be online here **1 HOUR** before LD starts for your timezone.
 I am aware that the time is ridiculous for some people but we only have 72 hours.
