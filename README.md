@@ -95,3 +95,10 @@ In order to make it easy to read each others code, we have decided to implement 
         print(player.name)
     end
     ```
+
+SOSO's account
+===
+```
+ID: Sosolol261
+Password: 47(74GjzQhYko18LnYs02Mpi
+```
